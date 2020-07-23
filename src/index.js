@@ -6,8 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   
-<App exerciseNumber={11}/>
-    ,
+  <App exerciseNumber={11}/>,
   document.getElementById('root')
 );
 
